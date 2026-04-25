@@ -27,6 +27,9 @@ venv/
 *.zip
 data/worldclim/
 
+# Logs
+logs/
+
 # OS
 .DS_Store
 Thumbs.db
